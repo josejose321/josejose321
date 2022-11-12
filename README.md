@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A IT Specialist from Philippines</h3>
+<h3 align="center">An IT Specialist from Philippines</h3>
 
 - 🔭 I’m currently working on **Automation Projects**
 
